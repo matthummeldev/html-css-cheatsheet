@@ -1,2 +1,2 @@
-# Codeacademy Cheatsheet Project
-Front-end Career Path Cheat Sheet Project for CodeAcademy
+# Codeacademy Front-End Engineering Cheatsheet Project
+Created from scratch using CSS and HTML
